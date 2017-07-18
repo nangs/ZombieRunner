@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "ZRSandBox.data.unityweb",
+"asmCodeUrl": "ZRSandBox.asm.code.unityweb",
+"asmMemoryUrl": "ZRSandBox.asm.memory.unityweb",
+"asmFrameworkUrl": "ZRSandBox.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
